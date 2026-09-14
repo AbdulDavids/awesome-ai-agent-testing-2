@@ -1200,6 +1200,12 @@ Tools for monitoring and observing agent behavior in production.
   - Hallucination detection
   - Chain debugging
 
+- [Gram](https://github.com/speakeasy-api/gram) - Open-source AI control plane for observing and governing agent and MCP activity.
+  - Searchable tool-call, permission, and access-event records
+  - Role-scoped access controls and policy enforcement
+  - Threat detection for agent actions
+  - Connects agents to MCP servers
+
 ### Logging Standards
 
 - [OpenTelemetry GenAI Convention](https://opentelemetry.io/docs/specs/semconv/gen-ai/) - Emerging standard for AI observability.
